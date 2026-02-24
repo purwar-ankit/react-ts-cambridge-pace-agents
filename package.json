@@ -3,16 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@types/react": "^18.0.8",
-    "@types/react-dom": "^18.0.2",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0",
-    "react-scripts": "5.0.1"{
-  "name": "cambridge-pace-agents",
-  "version": "0.0.0",
-  "private": true,
-  "type": "module",
-  "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -26,16 +16,5 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
-  }
-}
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom"
-  },
-  "browserslist": {
-    "production": [">0.2%", "not dead", "not op_mini all"],
-    "development": ["last 1 chrome version"]
   }
 }
